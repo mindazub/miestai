@@ -13,6 +13,7 @@ body {
 }
 
 #search-box {
+    margin-top: 3px;
     margin-bottom: 25px;
     font-size: 25px;
 }
