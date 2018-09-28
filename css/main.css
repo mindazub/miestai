@@ -1,0 +1,29 @@
+body {
+    background: dimgrey;
+}
+
+.search-box {
+    margin: 150px auto 25px;
+    width: 700px;
+    color: whitesmoke;
+}
+
+.input-box {
+    align: left;
+}
+
+#search-box {
+    margin-bottom: 25px;
+    font-size: 25px;
+}
+
+.search-inner {
+    margin: auto;
+    padding: 10px;
+    background: #ff00ff;
+}
+
+#button {
+    margin-left: 15px;
+    margin-top: 15px;
+}
